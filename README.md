@@ -1,7 +1,7 @@
 # SP500
 <img width="1433" height="756" alt="image" src="https://github.com/user-attachments/assets/d5518694-3050-4b8d-aaad-302812c0e7dd" />
 
-<br><br><br><br>
+<br><br><br>
 
 Developed a custom financial data visualization tool in Python to track and analyze market trends. By processing raw stock data and structuring it for visual output, this project provides a clear, quantitative representation of market volatility, highlighting the statistical distribution of daily price action and trading momentum.
 
