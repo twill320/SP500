@@ -44,4 +44,4 @@ This project implements an automated data pipeline that ingests raw time-series 
 **1. Clone the repository**
 ```bash
 git clone [https://github.com/twill320/SP500.git
-cd sp500-visualizer
+cd SP500
