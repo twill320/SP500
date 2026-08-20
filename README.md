@@ -45,3 +45,19 @@ This project implements an automated data pipeline that ingests raw time-series 
 ```bash
 git clone [https://github.com/twill320/SP500.git
 cd SP500
+
+**2. Set up Virtual Environment**
+# macOS/Linux
+python3 -m venv venv
+source venv/bin/activate
+
+# Windows
+python -m venv venv
+venv\Scripts\activate
+
+**3. Install required dependencies**
+pip install -r requirements.txt
+
+**4. Generate the visualization**
+python SP.py
+
