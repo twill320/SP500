@@ -1,0 +1,6 @@
+```text
+yfinance
+pandas
+matplotlib
+numpy
+mplfinance
