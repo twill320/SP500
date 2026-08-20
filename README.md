@@ -41,23 +41,23 @@ This project implements an automated data pipeline that ingests raw time-series 
 
 ## Installation & Usage
 
-**1. Clone the repository**
 ```bash
-git clone [https://github.com/twill320/SP500.git
+# 1. Clone the repository
+git clone [https://github.com/twill320/SP500.git](https://github.com/twill320/SP500.git)
 cd SP500
 
-**2. Set up Virtual Environment**
-# macOS/Linux
+# 2. Set up and activate a virtual environment
+# On macOS/Linux:
 python3 -m venv venv
 source venv/bin/activate
 
-# Windows
-python -m venv venv
-venv\Scripts\activate
+# On Windows:
+# python -m venv venv
+# venv\Scripts\activate
 
-**3. Install required dependencies**
+# 3. Install required dependencies
 pip install -r requirements.txt
+# (or: pip install yfinance pandas matplotlib numpy mplfinance)
 
-**4. Generate the visualization**
+# 4. Generate the visualization
 python SP.py
-
